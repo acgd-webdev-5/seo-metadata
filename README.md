@@ -12,7 +12,7 @@ deliverables: 'Live website'
 - Make sure to create unique titles and descriptions for every page.
 - Add all the appropriate enhanced metadata—look into using [Schema: CreativeWork](https://schema.org/CreativeWork) and more.
 - Create the SEO specific files: `humans.txt`, `robots.txt`, `sitemap.xml`.
-- Social media metadata is included, specifically Facebook Open Graph & Twitter Cards.
+- Social media metadata should be included, specifically Facebook Open Graph & Twitter Cards.
 
 ---
 
