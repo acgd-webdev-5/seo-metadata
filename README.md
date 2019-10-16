@@ -20,7 +20,7 @@ deliverables: 'Live website'
 
 Show teacher for marks during next class.
 
-Continue to add commits to your `portfolio` repo—and make sure the website works on GitHub at portfolio URL:
+Continue to add commits to your `portfolio` repo—and make sure the website works on Netlify at portfolio URL:
 
 ```
 https://some-fun-name-thing.netlify.com
